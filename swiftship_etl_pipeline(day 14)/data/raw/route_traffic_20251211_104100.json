@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "city": "Hyderabad",
+      "traffic_congestion_score": 7,
+      "avg_speed": 23.5,
+      "weather_warning": "Heavy rain"
+    },
+    {
+      "city": "Bangalore",
+      "traffic_congestion_score": 6,
+      "avg_speed": 28.0,
+      "weather_warning": null
+    }
+  ]
+}

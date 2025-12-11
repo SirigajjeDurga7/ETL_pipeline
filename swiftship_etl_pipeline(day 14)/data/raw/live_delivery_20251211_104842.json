@@ -1,0 +1,24 @@
+{
+  "deliveries": [
+    {
+      "shipment_id": "SH001",
+      "source_city": "Hyderabad",
+      "destination_city": "Mumbai",
+      "dispatch_time": "2025-01-10 08:00",
+      "expected_delivery_time": "2025-01-12 20:00",
+      "actual_delivery_time": null,
+      "package_weight": 14.2,
+      "delivery_agent_id": "AG145"
+    },
+    {
+      "shipment_id": "SH002",
+      "source_city": "Delhi",
+      "destination_city": "Bangalore",
+      "dispatch_time": "2025-01-09 10:30",
+      "expected_delivery_time": "2025-01-11 18:00",
+      "actual_delivery_time": "2025-01-11 19:10",
+      "package_weight": 7.8,
+      "delivery_agent_id": "AG032"
+    }
+  ]
+}
